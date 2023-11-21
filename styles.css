@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+	width:95vw;
+}
+.hero{
+	display:flex;
+}
+
+.hero2{
+	padding:100px;
+	flex-direction: column;
+	justify-content:space-between;
+	align-items:center;
+}
+.bt{
+	padding:5px;
+	background-color:red;
+	color:white;
+	border-radius:10px;
+	width:200px;
+	justify-content:center;
+	align-items:center;
+}
